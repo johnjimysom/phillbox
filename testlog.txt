@@ -1,0 +1,12 @@
+   //you can run on your python, and try
+   //
+   //
+
+
+   >>> import PyPDF2
+   >>> pdfFileObj = open('meetingminutes.pdf', 'rb')
+   >>> pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
+❶ >>> pdfReader.numPages
+   19
+❷ >>> pageObj = pdfReader.getPage(0)
+❸ >>> pageObj.extractText()
