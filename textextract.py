@@ -1,7 +1,7 @@
 import PyPDF2
 
 
-pdfFileObj = open('meetingminutes.pdf', 'rb')
+pdfFileObj = open('test.pdf', 'rb')
 pdfReader = PyPDF2.PdfFileReader(pdfFileObj)
 pdfReader.numPages
 
