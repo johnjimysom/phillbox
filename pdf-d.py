@@ -1,4 +1,6 @@
-#decrypter for PDFs
+# Author: Johnjimy Som
+# Date: September 27, 2018
+# Description: decrypter for PDFs, it will output a another file that can be readable without pw.
 
 import PyPDF2
 
