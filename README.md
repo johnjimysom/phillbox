@@ -17,4 +17,4 @@ PyPDF2 is pretty outdated, do mind that some of the scripts will not work. This 
 This uses the `MIT License`
 
 
-                                  `Copyright (c) 2018 Johnjimy Som`
+                                         Copyright (c) 2018 Johnjimy Som
