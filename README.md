@@ -13,3 +13,5 @@ PyPDF2 is pretty outdated, do mind that some of the scripts will not work. This 
 5. Can be applied to any other `.py` files
 6. You can run line by line from the contents of the `.py` files, besure you are running the python interpreter.
 
+## License
+This uses the `MIT License`
