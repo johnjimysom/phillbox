@@ -6,7 +6,7 @@ PyPDF2 is pretty outdated, do mind that some of the scripts will not work. This 
 
 ## How to Use
 
-1. Be sure to be in a directory when installing dependancies
+1. Be sure to be in a directory (which you are going to test) when installing dependancies
 2. `sudo pip3 install PyPDF2` on a CLI
 3. Copy repository `git clone https://github.com/johnjimysom/phillbox.git` on terminal
 4. to run the python on these scripts type: `python3 textextract.py` (for example)
