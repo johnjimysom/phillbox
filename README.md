@@ -10,7 +10,7 @@
         <img src="https://img.shields.io/badge/status-working-green.svg"
             alt="status"></a>
     <a href="#development">
-        <img src="https://img.shields.io/badge/development-on hold-FFA500.svg"
+        <img src="https://img.shields.io/badge/development-ongoing-lightgreen.svg"
             alt="development"></a>
     <a href="#dependencies">
         <img src="https://img.shields.io/badge/pip3-PyPDF, PyPDF2 -yellowgreen.svg"
