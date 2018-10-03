@@ -1,4 +1,22 @@
 # phillbox
+
+<p align="center">
+    <a href="#GPG">
+        <img src="https://img.shields.io/badge/GPG-2.2.10-E52B50.svg"
+            alt="GPG"></a>
+    <a href="https://raw.githubusercontent.com/johnjimysom/phillbox/master/LICENSE" alt="MIT License">
+        <img src="https://img.shields.io/badge/license-MIT-blue.svg"/></a>
+    <a href="#status">
+        <img src="https://img.shields.io/badge/status-working-green.svg"
+            alt="status"></a>
+    <a href="#development">
+        <img src="https://img.shields.io/badge/development-on hold-FFA500.svg"
+            alt="development"></a>
+    <a href="#dependencies">
+        <img src="https://img.shields.io/badge/pip3-PyPDF, PyPDF2 -yellowgreen.svg"
+            alt="dependencies"></a>
+</p>
+
 PDF Fillable Python script
 
 ## Note:
